@@ -1,0 +1,6 @@
+.carouselItem{
+    width: 95%;
+    height: 75vh;
+    margin: 0 -5em;    
+    background-size: cover;
+}
